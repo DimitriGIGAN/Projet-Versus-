@@ -1,0 +1,48 @@
+
+    #moncadre {
+        border:5px solid black;
+        width: 1000px;
+        height:600px;
+        margin-left: auto;
+        margin-right: auto;
+        
+     }
+     .KEN {
+        width: 400px;
+        height:400px;
+        position: absolute;
+  top: 32%; left: 35%;
+  transform: translate(-50%, -50%); 
+  border: 5px solid black;
+}
+        DIV.container {
+            min-height: 10em;
+            display: table-cell;
+            vertical-align: middle }
+
+            .GIGA {
+                width: 400px;
+                height:400px;   
+                position: absolute;
+                top: 32%; left: 65%;
+                transform: translate(-50%, -50%); border: 5px solid black;
+            }
+        .VS {
+                    width: 150px;
+                    height:150px;   
+                    position: absolute;
+                    top: 32%; left: 50%;
+                    transform: translate(-50%, -50%); 
+        }
+        h1 {
+            position: absolute;
+            top: 53%; left: 35%; 
+            transform: translate(-50%, -50%); 
+
+        }
+        h2{
+            position: absolute;
+            top: 55%; left: 65%; 
+            transform: translate(-50%, -50%); 
+
+        }
