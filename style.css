@@ -1,48 +1,44 @@
-
-    #moncadre {
-        border:5px solid black;
-        width: 1000px;
-        height:600px;
-        margin-left: auto;
-        margin-right: auto;
-        
-     }
-     .KEN {
-        width: 400px;
-        height:400px;
-        position: absolute;
-  top: 32%; left: 35%;
-  transform: translate(-50%, -50%); 
-  border: 5px solid black;
+body{
+    background: black;
 }
-        DIV.container {
-            min-height: 10em;
-            display: table-cell;
-            vertical-align: middle }
 
-            .GIGA {
-                width: 400px;
-                height:400px;   
-                position: absolute;
-                top: 32%; left: 65%;
-                transform: translate(-50%, -50%); border: 5px solid black;
-            }
-        .VS {
-                    width: 150px;
-                    height:150px;   
-                    position: absolute;
-                    top: 32%; left: 50%;
-                    transform: translate(-50%, -50%); 
-        }
-        h1 {
-            position: absolute;
-            top: 53%; left: 35%; 
-            transform: translate(-50%, -50%); 
 
-        }
-        h2{
-            position: absolute;
-            top: 55%; left: 65%; 
-            transform: translate(-50%, -50%); 
 
-        }
+nav ul{
+	padding: 0px;
+    margin : 0px;
+    
+	list-style-type: none;
+	background-color:rgb(59, 24, 255);
+	
+}
+nav li {
+	display: block;
+
+	color: white;
+
+	display: inline-block;
+    margin: 15px;
+	padding: 5px;
+	
+	height: 30 text-align: center;
+    cursor: pointer;
+    padding: 1rem 3rem;
+    display: inline-block;
+    border-radius: 3px;
+    margin: 1rem;
+    text-decoration: none;
+    font-family: system-ui;
+    font-size: 16px;
+    text-transform: uppercase;
+    background-image: linear-gradient(-45deg, #1f2f98 0, #4adede 100%);
+    box-shadow: 0 4px 13px 0 rgba(14, 9, 73, 0.2),
+      0 11px 21px 0 rgba(255, 166, 220, 0.004);px;
+	
+    
+}
+
+nav li:hover{
+    color: rgb(68, 64, 64);
+
+}
